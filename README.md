@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ShrinidhiSS
-- 👀 I’m interested in Deep learning in Computer Vision and Web Development(Django / JavaScript)
-- 🌱 I’m currently learning Deep learning in Computer Vision
-- 💞️ I’m looking to collaborate on Deep learning and Web development
-- 📫 Reach me via LinkedIn: https://www.linkedin.com/in/shrinidhi-saravanan-8682a8143/
+- 👀 I’m interested in DevOps and Site Realiability Engineering topics
+- 📫 Reach me via LinkedIn: https://www.linkedin.com/in/shrinidhi_ss/
 
 <!---
 ShrinidhiSS/ShrinidhiSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
